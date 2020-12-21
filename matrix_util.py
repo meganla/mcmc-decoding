@@ -37,7 +37,3 @@ def computeMatrix(fileName):
     probability_matrix += 1
     
     return probability_matrix, alphabet
-
-
-
-# computeMatrix('WarAndPeace.txt')

@@ -5,12 +5,6 @@ import sys
 """
 Markov Chain Monte Carlo Algorithms and Decryption
 
-Author: Megan Larson
-
-CS4100 Artificial Intelligence 
-
-Welcome to my final AI project! See the ReadMe for instructions on how to run.
-
 """
 
 def main(argv):
